@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PokéDefense local</string>
+    <style name="AppTheme" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#14161C</item>
+        <item name="android:statusBarColor">#14161C</item>
+        <item name="android:navigationBarColor">#14161C</item>
+        <item name="android:colorAccent">#F2C467</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">never</item>
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
+    </style>
+</resources>
